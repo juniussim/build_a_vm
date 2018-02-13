@@ -1,4 +1,4 @@
-#Project: Building a Virtual Machine
+# Project: Building a Virtual Machine
 
 - Write a program that simulates the behavior of computer hardware.
 
@@ -6,7 +6,7 @@
 
 - Side object: Learn how virtual machines are implemented (virtual machinese form a critical component of a high level language implementations like Javascript, Python & Ruby)
 
-##The Computer Specification:
+## The Computer Specification:
 
 a. 20 bytes of memory
 b. 3 registers
@@ -74,7 +74,7 @@ halt
 Does nothing (i believe)
 13. 0000 0000
 
-##Exercise
+## Exercise
 
 - Write a virtual computer function that:
 
